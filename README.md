@@ -45,5 +45,8 @@ Resampling methods,
 Cross-validation
 Performance metrics (Accuracy, Precision, Recall, F1-Score)
 
+# Deployment
+Using streamlit and joblib created a deployment for easier understanding of the model.
+
 # 📈 Results
 The best-performing model is selected based on cross-validated metrics and is used to predict promotion likelihood on test data.
